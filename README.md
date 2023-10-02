@@ -1,1 +1,1 @@
-# landing-page
+This is my first website project. Basically, I will demonstrate the ability to use flexbox.
